@@ -17,11 +17,12 @@ Wednesday: 09:00-11:00 AM, 维格堂 221.
 - Tutorials (20%). This is to check the completeness. I will discuss the tutorials on
 last hour of the second class each week.
 - Final exam: 60\%. Exam will be CLOSED BOOK. However, each student is
-allowed to bring ** ONE** A4 papers (two-sided) to the exam venue. Anything can be
+allowed to bring **ONE** A4 papers (two-sided) to the exam venue. Anything can be
 written/printed on those papers. One calculator without programming function
-is allowed and ** necessary ** . Computers are ** prohibited**.
+is allowed and **necessary** . Computers are **prohibited**.
 
-** Note: Fail to take the final exam will fail to pass the course. **
+**Note: Fail to take the final exam will fail to pass the course.**
+
 ## Course details:
 1. 09.12  Review of Basic Probability
 2. 09.19  Convergence of Random Variables (1)
