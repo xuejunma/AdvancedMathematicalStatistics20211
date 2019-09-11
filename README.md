@@ -40,3 +40,6 @@ is allowed and **necessary** . Computers are **prohibited**.
 14. 12.12  Multiple Testing
 15. 12.19  Confidence Sets (1)
 16. 12.26  Confidence Sets (2)
+
+## Acknowledgements
+We would like to thank Professor [Wang Wanjie](http://blog.nus.edu.sg/staww/) for sending slides and  beneficial discussions.
