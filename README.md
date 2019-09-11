@@ -14,9 +14,9 @@ Wednesday: 09:00-11:00 AM, 维格堂 221.
 - Statistical Inference by George Casella and Roger L. Berger
 - Mathematical Statistics by Jun Shao.
 ## Assessment:
-- Tutorials (20%). This is to check the completeness. I will discuss the tutorials on
+- Tutorials (20%):. This is to check the completeness. I will discuss the tutorials on
 last hour of the second class each week.
-- Final exam: 60\%. Exam will be CLOSED BOOK. However, each student is
+- Final exam (60\%):  Exam will be CLOSED BOOK. However, each student is
 allowed to bring **ONE** A4 papers (two-sided) to the exam venue. Anything can be
 written/printed on those papers. One calculator without programming function
 is allowed and **necessary** . Computers are **prohibited**.
