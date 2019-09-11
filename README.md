@@ -29,9 +29,9 @@ is allowed and ** necessary ** . Computers are ** prohibited**.
 4. 10.03 ~~
 5. 10.10 ~~ Law of Large Numbers and Central Limit Theorem
 6. 10.17 ~~ Edgeworth Expansion and  Models
-     10.24 ~~ Statistics
-     10.31 ~~ Estimators(1)
-     11.07 ~~ Estimators(1)
+7. 10.24 ~~ Statistics
+8. 10.31 ~~ Estimators(1)
+11.07 ~~ Estimators(1)
      11.14 ~~ UMVUE
      11.21 ~~ Bayes Estimator and Minimax Estimator
      11.28 ~~ Asymptotics
