@@ -42,4 +42,4 @@ is allowed and **necessary** . Computers are **prohibited**.
 16. 12.26  Confidence Sets (2)
 
 ## Acknowledgements
-We would like to thank Professor [Wang Wanjie](http://blog.nus.edu.sg/staww/) for sending slides and  beneficial discussions.
+We would like to thank Professor [Tian Maozai](http://stat.ruc.edu.cn/teacher_more.php?id=54&cid=25) and Professor [Wang Wanjie](http://blog.nus.edu.sg/staww/) for sending slides and  beneficial discussions.
