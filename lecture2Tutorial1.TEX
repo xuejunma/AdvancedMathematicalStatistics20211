@@ -1,0 +1,123 @@
+\documentclass[11pt]{article} %PDFLATEX
+\usepackage{amsfonts}
+\usepackage{amsfonts}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+\usepackage{mathrsfs}
+\usepackage{amsmath}
+\usepackage{fancyhdr}
+\usepackage{mathrsfs,epsfig,morefloats}
+\usepackage{amsfonts}
+\bibliographystyle{f:/text/reference/asa}
+\usepackage{natbib}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+\usepackage{color}
+\usepackage{lscape}
+\usepackage{rotating}
+\usepackage{caption2}
+\usepackage{subfigure}
+\usepackage{graphicx}
+
+\usepackage{bm}
+\usepackage{enumerate}
+%change the file of your graphic
+%\graphicspath{ {C:/Users/jean/Desktop/NUS/} }
+
+\usepackage{amssymb}
+%\usepackage{showkeys}
+\usepackage{amsmath}
+
+
+\newtheorem{theorem}{Theorem}
+\newtheorem{tmm}{Theorem}[section]
+\newtheorem{lemma}{Lemma}
+\newtheorem{cy}{Corollary}
+\newtheorem{proposition}{Proposition}
+\newtheorem{ft}{Fact}[section]
+\theoremstyle{definition}
+\newtheorem{condition}{Condition}
+\newtheorem{ex}{Example}
+\newtheorem{example}{Example}
+\newtheorem{remark}{Remark}
+\newtheorem{defn}{Definition}[section]
+
+\newcommand\independent{\protect\mathpalette{\protect\independenT}{\perp}}
+\def\independenT#1#2{\mathrel{\rlap{$#1#2$}\mkern2mu{#1#2}}}
+
+
+
+
+
+
+\makeatletter
+\newcommand{\figcaption}{\def\@captype{figure}\caption}
+\newcommand{\tabcaption}{\def\@captype{table}\caption}
+\makeatother
+
+
+
+
+
+
+
+
+
+
+%\setlength{\textwidth}{17.5cm}
+%\setlength{\textheight}{8.75in}
+%\setlength{\oddsidemargin}{0.25in}
+%\setlength{\evensidemargin}{0.25in}
+%\setlength{\topmargin}{-0.5cm}
+%\addtolength{\textwidth}{1in} \addtolength{\oddsidemargin}{-0.5in}
+%\addtolength{\textheight}{1.6in} \addtolength{\topmargin}{-0.5in}
+
+
+\renewcommand{\baselinestretch}{1.4}
+\oddsidemargin 0in \evensidemargin 0in \topmargin -0.7in \textwidth
+6.4in \textheight 9.25in
+\def\hth{\hat\theta}
+\def\mA{\mathcal{A}}
+\def\vv{1.2}
+\renewcommand{\baselinestretch}{\vv}
+\renewcommand\arraystretch{1.1}
+\parskip = 2mm
+
+%\renewcommand{\theequation}{\thesection.\arabic{equation}}
+
+
+\renewcommand{\theequation}{\thesection.\arabic{equation}}
+
+%\usepackage[pdftex]{hyperref}
+\usepackage{epstopdf}
+\usepackage{CJK}
+
+\begin{document}
+\begin{CJK*}{GBK}{song}
+
+
+\title{ \bf Advanced Mathematical Statistics \\
+2019/2020: Semester I\\
+Tutorial 1\\
+Due date: 2019.10.06}
+
+\author{}
+
+\date{}
+\maketitle
+\begin{enumerate}
+  \item Let $X, X_{1}, X_{2}, \dots $ be a sequence of random variables. Show that $X_{n}\overset{p}{\to} X$ if and only if 
+  $$
+  E\Big{(} \frac{|X_{n}-X|}{1+|X_{n}-X| }  \Big{)} \to 0, ~~\text{as} ~~ n \to \infty
+  $$
+  %\item Show that if $X_{n}\overset{d}{\to} X$ for a random variable $X$, then $X_{n}=O_{p}(1)$
+  \item Prove that $O_{p}(1)+o_{p}(1)=O_{p}(1)$
+\end{enumerate}
+
+
+\end{CJK*}
+\end{document}
