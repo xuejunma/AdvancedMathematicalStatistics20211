@@ -26,20 +26,20 @@ is allowed and **necessary** . Computers are **prohibited**.
 ## Course details:
 1. 09.16  Review of Basic Probability
 2. 09.23  Convergence of Random Variables (1)
-3. 09.30  
-4. 10.07 Convergence of Random Variables (2)
-5. 10.14  Law of Large Numbers and Central Limit Theorem
-6. 10.21  Edgeworth Expansion and  Models
-7. 10.28  Statistics
-8. 11.04  Estimators (1)
-9. 11.11  Estimators (2)
-10. 11.18  UMVUE
-11. 11.25  Bayes Estimator and Minimax Estimator
-12. 12.02  Asymptotics
-13. 12.09  Hypothesis Testing
-14. 12.16  Multiple Testing
-15. 12.23  Confidence Sets (1)
-16. 12.30  Confidence Sets (2)
+3. 09.28  Convergence of Random Variables (2)
+4. 10.07 Law of Large Numbers and Central Limit Theorem
+5. 10.14  Edgeworth Expansion and  Models
+6. 10.21  Statistics
+7. 10.28  Estimators (1)
+8. 11.04  Estimators (2)
+9. 11.11  UMVUE
+10. 11.18  Bayes Estimator and Minimax Estimator
+11. 11.25  Asymptotics
+12. 12.02  Hypothesis Testing
+13. 12.09  Multiple Testing
+14. 12.16  Confidence Sets (1)
+15. 12.23  Confidence Sets (2)
+16. 12.30  Review
 
 ## Acknowledgements
 We would like to thank Professor [Tian Maozai](http://stat.ruc.edu.cn/teacher_more.php?id=54&cid=25) and Professor [Wang Wanjie](http://blog.nus.edu.sg/staww/) for sending slides and  beneficial discussions.
